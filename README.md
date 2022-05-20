@@ -109,22 +109,3 @@ Analysis for T-test for Lot 3:
 
 The mean of this sample is 1496.14 with a p-value of 0.04168. Since the p-value is less than the significance level (P > α) , the null hypothesis can be rejected and alternative (the true mean of this sample is not equal to 1500) can be accepted. The absolute t-stat value is 2.0916 indicating that the difference between this sample and the population is increasing as compared to Lot 2. The box plot shows that the cause is outliers. The mean of the sample and the the population are statistically different. Lot 3 is indicated as the source of production troubles.  
 
-## Study Design: MechaCar vs. Competition
-### Objective
-Statistical study: MechaCar notices a surge of demand for sports car and want to gauge their performance against that of their competition.
-
-**Metric or Metrics to Test**
-A critical attribute sports car are judge on is horsepower. To accomplish 
-
-**Null Hypothesis and Alternative Hypothesis**
-Hypothesis:
-
-H0: μ0 = 1500 PSI
-HA: μ1 ≠ 1500 PSI
-
-
-**Statistical test to test the hypothesis**
-
-**Data**
-
-
